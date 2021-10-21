@@ -30,6 +30,7 @@ public class oneOfOne {
 			System.out.println("Hi " + userName + "! You do not qualify to " +
             "apply for a car learner or driver license.");
 		}
+		sc.close(); //close Scanner
 
 	}
 }
